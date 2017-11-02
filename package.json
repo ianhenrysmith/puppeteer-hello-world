@@ -1,0 +1,16 @@
+{
+  "name": "shodeo",
+  "version": "1.0.0",
+  "description": "screenshots",
+  "main": "index.js",
+  "author": "ian smith",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": "9.0.0"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "puppeteer": "^0.12.0"
+  }
+}
